@@ -1,2 +1,10 @@
 # pksnowstorm.github.io
-All websites made by here are stored here in multiple branches
+Parent website
+
+**Star Wars Planets Info**
+
+https://pksnowstorm.github.io/starwarsplanets/
+
+**Pokemon Card Info**
+
+https://pksnowstorm.github.io/pokemontcg/
